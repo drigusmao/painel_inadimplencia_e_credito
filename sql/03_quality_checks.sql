@@ -1,0 +1,1 @@
+# checagens: nulos, duplicados, órfãos, datas

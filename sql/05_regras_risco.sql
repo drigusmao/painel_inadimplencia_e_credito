@@ -1,0 +1,1 @@
+ # regras R1/R2/R3 (ex.: >30 dias, saldo negativo…)

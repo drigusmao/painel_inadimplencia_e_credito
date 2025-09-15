@@ -1,0 +1,1 @@
+# cria tabelas (PK, FKs, tipos)
